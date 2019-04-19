@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
+    <loc>http://www.ohtudou.com/2019/04/11/api-mock/</loc>
+    <lastmod>2019-04-19</lastmod>
+  </url>  <url>
+    <loc>http://www.ohtudou.com/2017/06/21/make-php5-dev/</loc>
     <lastmod>2019-04-19</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2019/04/19/learn-angular-part3/</loc>
@@ -10,11 +13,11 @@
     <loc>http://www.ohtudou.com/2019/04/16/learn-angular-part2/</loc>
     <lastmod>2019-04-19</lastmod>
   </url>  <url>
+    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
+    <lastmod>2019-04-19</lastmod>
+  </url>  <url>
     <loc>http://www.ohtudou.com/2019/04/18/classic-quotations/</loc>
     <lastmod>2019-04-18</lastmod>
-  </url>  <url>
-    <loc>http://www.ohtudou.com/2019/04/11/api-mock/</loc>
-    <lastmod>2019-04-15</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2017/07/07/odd-number-factor-magic-squar/</loc>
     <lastmod>2019-03-11</lastmod>
@@ -23,9 +26,6 @@
     <lastmod>2019-03-08</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2017/06/22/simulator-and-emulator/</loc>
-    <lastmod>2019-03-08</lastmod>
-  </url>  <url>
-    <loc>http://www.ohtudou.com/2017/06/21/make-php5-dev/</loc>
     <lastmod>2019-03-08</lastmod>
   </url>
 </urlset>
