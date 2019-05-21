@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.ohtudou.com/2019/04/19/learn-angular-part3/</loc>
+    
+    <lastmod>2019-05-21T09:14:55.729Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.ohtudou.com/2019/04/11/api-mock/</loc>
     
     <lastmod>2019-04-19T10:38:58.637Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.ohtudou.com/2017/06/21/make-php5-dev/</loc>
     
     <lastmod>2019-04-19T10:38:29.584Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ohtudou.com/2019/04/19/learn-angular-part3/</loc>
-    
-    <lastmod>2019-04-19T10:38:01.470Z</lastmod>
     
   </url>
   
