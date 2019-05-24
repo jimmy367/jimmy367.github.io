@@ -26,19 +26,19 @@
 <h1 id="SETP1：安装"><a href="#SETP1：安装" class="headerlink" title="SETP1：安装"></a>SETP1：安装</h1><hr>
 <p>首先全局或者本地安装</p>
 <blockquote>
-<p># 全局安装<br>npm install -g json-server<br># 本地安装<br>npm install json-server –save</p>
+<p># 全局安装<br>npm install -g json-server<br># 本地安装<br>npm install json-server --save<br>＊win系统中需要管理者权限执行</p>
 </blockquote>
 <h1 id="SETP2：做成MOCK数据"><a href="#SETP2：做成MOCK数据" class="headerlink" title="SETP2：做成MOCK数据"></a>SETP2：做成MOCK数据</h1><hr>
 <p>MOCK数据文件可以任意命名，使用JSON形式。<br>本例我们在当前目录下生成一个db.json文件 内容如下：<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//db.json</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="string">"customers"</span>: [</span><br><span class="line">      &#123; <span class="string">"id"</span>: <span class="number">1</span>, <span class="string">"first_name"</span>: <span class="string">"John"</span>, <span class="string">"last_name"</span>: <span class="string">"Smith"</span>,  <span class="string">"phone"</span>: <span class="string">"219-839-2819"</span> &#125;,</span><br><span class="line">      &#123; <span class="string">"id"</span>: <span class="number">2</span>, <span class="string">"first_name"</span>: <span class="string">"John"</span>, <span class="string">"last_name"</span>: <span class="string">"Smith"</span>,  <span class="string">"phone"</span>: <span class="string">"219-839-2819"</span> &#125;,</span><br><span class="line">      &#123; <span class="string">"id"</span>: <span class="number">3</span>, <span class="string">"first_name"</span>: <span class="string">"John"</span>, <span class="string">"last_name"</span>: <span class="string">"Smith"</span>,  <span class="string">"phone"</span>: <span class="string">"219-839-2819"</span> &#125;</span><br><span class="line">    ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
 <h1 id="SETP3：MOCK服务器启动"><a href="#SETP3：MOCK服务器启动" class="headerlink" title="SETP3：MOCK服务器启动"></a>SETP3：MOCK服务器启动</h1><hr>
 <p>用JSON的文件名作为参数实行json-server</p>
 <blockquote>
-<p>json-server –watch db.json</p>
+<p>json-server --watch db.json</p>
 </blockquote>
 <p>终端提示如下<br><img src="http://static.yilinkouqiang.com/static/images/api-mock-3.png"></p>
 <p>我们看到json-server的Hom地址为<a href="http://localhost:3000" target="_blank" rel="noopener">http://localhost:3000</a><br>当然我们也可以指定端口 这样我们就可以监听多个json文件</p>
 <blockquote>
-<p>json-server –watch -port 8888 db.json</p>
+<p>json-server --watch -port 8888 db.json</p>
 </blockquote>
 <p>我们在浏览器中访问该地址将看到如下内容<br><img src="http://static.yilinkouqiang.com/static/images/api-mock-4.png"></p>
 <h1 id="SETP4：利用Faker-js生成大量数据"><a href="#SETP4：利用Faker-js生成大量数据" class="headerlink" title="SETP4：利用Faker.js生成大量数据"></a>SETP4：利用Faker.js生成大量数据</h1><p>如果要自己瞎编API数据的话也是比较烦恼，用faker.js就可以轻松解决这个问题，他可以帮助你自动生成大量fake的json数据，作为后端数据。</p>
