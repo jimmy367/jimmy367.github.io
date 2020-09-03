@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.ohtudou.com/gallery/index.html</loc>
+    
+    <lastmod>2020-09-03T03:18:07.581Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.ohtudou.com/2020/07/07/it-quotations/</loc>
     
-    <lastmod>2020-07-07T07:47:06.048Z</lastmod>
+    <lastmod>2020-07-07T07:50:26.683Z</lastmod>
     
   </url>
   
@@ -145,13 +152,6 @@
     <loc>http://www.ohtudou.com/manifest.json</loc>
     
     <lastmod>2019-03-08T11:10:59.337Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ohtudou.com/gallery/index.html</loc>
-    
-    <lastmod>2019-03-08T06:28:10.692Z</lastmod>
     
   </url>
   
