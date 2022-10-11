@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
+    <loc>http://www.ohtudou.com/2021/03/11/nginx-setup-intro/</loc>
     <lastmod>2022-10-11</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2021/03/11/nginx-setup-intro/</loc>
+    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
     <lastmod>2022-10-11</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2022/10/11/classic-quotations7/</loc>
@@ -19,13 +19,13 @@
     <loc>http://www.ohtudou.com/2017/07/07/odd-number-factor-magic-squar/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
-    <lastmod>2022-10-10</lastmod>
-  </url>  <url>
     <loc>http://www.ohtudou.com/2017/06/22/simulator-and-emulator/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2020/03/22/use-nvm/</loc>
+    <lastmod>2022-10-10</lastmod>
+  </url>  <url>
+    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2017/06/21/make-php5-dev/</loc>
@@ -40,22 +40,22 @@
     <loc>http://www.ohtudou.com/2019/05/22/learn-angular-part4/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
-    <lastmod>2022-10-10</lastmod>
-  </url>  <url>
     <loc>http://www.ohtudou.com/2020/07/07/it-quotations/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2021/07/29/classic-quotations5/</loc>
+    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2022/01/11/classic-quotations6/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
+    <loc>http://www.ohtudou.com/2021/07/29/classic-quotations5/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2020/03/31/docker-install/</loc>
+    <lastmod>2022-10-10</lastmod>
+  </url>  <url>
+    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2020/03/22/hexo-github/</loc>
@@ -64,10 +64,10 @@
     <loc>http://www.ohtudou.com/2019/04/18/classic-quotations/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
+    <loc>http://www.ohtudou.com/2020/02/20/classic-quotations2/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
-    <loc>http://www.ohtudou.com/2020/02/20/classic-quotations2/</loc>
+    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>  <url>
     <loc>http://www.ohtudou.com/2020/06/11/classic-quotations3/</loc>

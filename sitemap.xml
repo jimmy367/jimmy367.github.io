@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
+    <loc>http://www.ohtudou.com/2021/03/11/nginx-setup-intro/</loc>
     
-    <lastmod>2022-10-11T03:58:40.791Z</lastmod>
+    <lastmod>2022-10-11T05:08:54.355Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2021/03/11/nginx-setup-intro/</loc>
+    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
     
-    <lastmod>2022-10-11T03:58:18.954Z</lastmod>
+    <lastmod>2022-10-11T04:01:26.287Z</lastmod>
     
   </url>
   
@@ -72,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
-    
-    <lastmod>2022-10-10T06:25:30.285Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.ohtudou.com/2017/06/22/simulator-and-emulator/</loc>
     
     <lastmod>2022-10-10T06:25:30.285Z</lastmod>
@@ -87,6 +80,13 @@
   
   <url>
     <loc>http://www.ohtudou.com/2020/03/22/use-nvm/</loc>
+    
+    <lastmod>2022-10-10T06:25:30.285Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
     
     <lastmod>2022-10-10T06:25:30.285Z</lastmod>
     
@@ -121,13 +121,6 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
-    
-    <lastmod>2022-10-10T06:25:30.282Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.ohtudou.com/2020/07/07/it-quotations/</loc>
     
     <lastmod>2022-10-10T06:25:30.282Z</lastmod>
@@ -135,9 +128,9 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2021/07/29/classic-quotations5/</loc>
+    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
     
-    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
+    <lastmod>2022-10-10T06:25:30.282Z</lastmod>
     
   </url>
   
@@ -149,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
+    <loc>http://www.ohtudou.com/2021/07/29/classic-quotations5/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
     
@@ -157,6 +150,13 @@
   
   <url>
     <loc>http://www.ohtudou.com/2020/03/31/docker-install/</loc>
+    
+    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
     
@@ -177,14 +177,14 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
+    <loc>http://www.ohtudou.com/2020/02/20/classic-quotations2/</loc>
     
     <lastmod>2022-10-10T06:25:30.279Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/02/20/classic-quotations2/</loc>
+    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
     
     <lastmod>2022-10-10T06:25:30.279Z</lastmod>
     
