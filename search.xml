@@ -279,11 +279,11 @@
       
         <tags>
             
-            <tag> docker </tag>
-            
             <tag> centos </tag>
             
             <tag> linux </tag>
+            
+            <tag> docker </tag>
             
         </tags>
       
@@ -681,7 +681,7 @@
       <link href="/2017/06/23/simple-git-command/"/>
       <url>/2017/06/23/simple-git-command/</url>
       
-        <content type="html"><![CDATA[<img src="http://static.ohtudou.cc/static/images/simple-git-command-1.png?imageView2/2/w/1000">]]></content>
+        <content type="html"><![CDATA[<h1 id="超简GIT命令"><a href="#超简GIT命令" class="headerlink" title="超简GIT命令"></a>超简GIT命令</h1><img src="http://static.ohtudou.cc/static/images/simple-git-command-1.png?imageView2/2/w/1000">]]></content>
       
       
       <categories>
