@@ -37,7 +37,7 @@
       <link href="/2022/09/28/make-nginx-tomcat-dev/"/>
       <url>/2022/09/28/make-nginx-tomcat-dev/</url>
       
-        <content type="html"><![CDATA[<img src="http://static.ohtudou.cc/static/images/make-nginx-tomcat-dev-1.jpg?imageView2/2/w/1000"><h1 id="NGINX简介"><a href="#NGINX简介" class="headerlink" title="NGINX简介"></a>NGINX简介</h1><p>Nginx是一款轻量级的Web服务器、反向代理服务器，同时也提供了IMAP/POP3/SMTP服务，在BSD-like 协议下发行。由于它的内存占用少，启动极，高并发能力强，在互联网项目中广泛应用。</p><p>相比Apache，克服了C10K问题。</p><p>Nginx读作<a href="engine x">‘ɛndʒɪn eks</a>。</p><blockquote><p>官网： <a href="https://nginx.org/" target="_blank" rel="noopener">NGINX</a></p></blockquote><blockquote><p>Nginx配置： <a href="https://www.ohtudou.com/2021/03/11/nginx-setup-intro/">Nginx配置详解</a> </p></blockquote><a id="more"></a><h1 id="Tomcat简介"><a href="#Tomcat简介" class="headerlink" title="Tomcat简介"></a>Tomcat简介</h1><blockquote><p>正式名称：Apache Tomcat<br>官网： <a href="https://tomcat.apache.org/" target="_blank" rel="noopener">Apache Tomcat®</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<img src="http://static.ohtudou.cc/static/images/make-nginx-tomcat-dev-1.jpg?imageView2/2/w/1000"><h1 id="NGINX"><a href="#NGINX" class="headerlink" title="NGINX"></a>NGINX</h1><p>Nginx是一款轻量级的Web服务器、反向代理服务器，同时也提供了IMAP/POP3/SMTP服务，在BSD-like 协议下发行。由于它的内存占用少，启动极，高并发能力强，在互联网项目中广泛应用。</p><p>相比Apache，克服了C10K问题。</p><blockquote><p>Nginx读作：[‘ɛndʒɪn eks]  (engine x)</p></blockquote><blockquote><p>官网： <a href="https://nginx.org/" target="_blank" rel="noopener">NGINX</a></p></blockquote><blockquote><p>Nginx配置： <a href="https://www.ohtudou.com/2021/03/11/nginx-setup-intro/">Nginx配置详解</a> </p></blockquote><a id="more"></a><h1 id="Tomcat"><a href="#Tomcat" class="headerlink" title="Tomcat"></a>Tomcat</h1><blockquote><p>正式名称：Apache Tomcat<br>官网： <a href="https://tomcat.apache.org/" target="_blank" rel="noopener">Apache Tomcat®</a></p></blockquote><h1 id="Docker"><a href="#Docker" class="headerlink" title="Docker"></a>Docker</h1><p>Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中,然后发布到任何流行的Linux或Windows操作系统的机器上,也可以实现虚拟化,容器是完全使用沙箱机制,相互之间不会有任何接口。</p><blockquote><p>官网： <a href="https://www.docker.com/" target="_blank" rel="noopener">Docker</a></p></blockquote><h1 id="全体像"><a href="#全体像" class="headerlink" title="全体像"></a>全体像</h1><p>全体构成如下：</p><img src="http://static.ohtudou.cc/static/images/make-nginx-tomcat-dev-2.png?imageView2/2/w/1000"><h1 id="環境"><a href="#環境" class="headerlink" title="環境"></a>環境</h1><h1 id="Dockerfile"><a href="#Dockerfile" class="headerlink" title="Dockerfile"></a>Dockerfile</h1>]]></content>
       
       
       <categories>
@@ -279,11 +279,11 @@
       
         <tags>
             
+            <tag> docker </tag>
+            
             <tag> centos </tag>
             
             <tag> linux </tag>
-            
-            <tag> docker </tag>
             
         </tags>
       
