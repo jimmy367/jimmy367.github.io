@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.ohtudou.com/2017/06/23/simple-git-command/</loc>
+    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
     
-    <lastmod>2022-10-11T10:19:42.602Z</lastmod>
+    <lastmod>2022-10-12T08:31:41.100Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2022/09/28/make-nginx-tomcat-dev/</loc>
+    <loc>http://www.ohtudou.com/2017/06/23/simple-git-command/</loc>
     
-    <lastmod>2022-10-11T10:14:54.139Z</lastmod>
+    <lastmod>2022-10-11T10:19:42.602Z</lastmod>
     
   </url>
   
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
+    <loc>http://www.ohtudou.com/2017/07/07/odd-number-factor-magic-squar/</loc>
     
     <lastmod>2022-10-10T06:25:30.285Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2017/07/07/odd-number-factor-magic-squar/</loc>
+    <loc>http://www.ohtudou.com/2020/03/27/modify-post-data/</loc>
     
     <lastmod>2022-10-10T06:25:30.285Z</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2019/05/22/learn-angular-part4/</loc>
+    <loc>http://www.ohtudou.com/2019/04/19/learn-angular-part3/</loc>
     
     <lastmod>2022-10-10T06:25:30.283Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2019/04/19/learn-angular-part3/</loc>
+    <loc>http://www.ohtudou.com/2019/05/22/learn-angular-part4/</loc>
     
     <lastmod>2022-10-10T06:25:30.283Z</lastmod>
     
@@ -149,6 +149,13 @@
   </url>
   
   <url>
+    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
+    
+    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.ohtudou.com/2020/03/31/docker-install/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
@@ -163,21 +170,14 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
-    
-    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
+    <loc>http://www.ohtudou.com/2020/06/11/classic-quotations3/</loc>
     
     <lastmod>2022-10-10T06:25:30.279Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/06/11/classic-quotations3/</loc>
+    <loc>http://www.ohtudou.com/2020/10/14/classic-poems-md/</loc>
     
     <lastmod>2022-10-10T06:25:30.279Z</lastmod>
     
