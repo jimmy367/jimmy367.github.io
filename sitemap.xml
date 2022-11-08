@@ -4,7 +4,7 @@
   <url>
     <loc>http://www.ohtudou.com/game/index.html</loc>
     
-    <lastmod>2022-11-07T06:16:26.279Z</lastmod>
+    <lastmod>2022-11-08T10:16:45.912Z</lastmod>
     
   </url>
   
@@ -142,13 +142,6 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
-    
-    <lastmod>2022-10-10T06:25:30.282Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.ohtudou.com/2020/07/07/it-quotations/</loc>
     
     <lastmod>2022-10-10T06:25:30.282Z</lastmod>
@@ -156,7 +149,14 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2022/01/11/classic-quotations6/</loc>
+    <loc>http://www.ohtudou.com/2019/04/15/learn-angular-part1/</loc>
+    
+    <lastmod>2022-10-10T06:25:30.282Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
     
@@ -170,14 +170,7 @@
   </url>
   
   <url>
-    <loc>http://www.ohtudou.com/2020/04/01/gitlab-cicd/</loc>
-    
-    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ohtudou.com/2020/03/31/docker-install/</loc>
+    <loc>http://www.ohtudou.com/2022/01/11/classic-quotations6/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
     
@@ -185,6 +178,13 @@
   
   <url>
     <loc>http://www.ohtudou.com/2020/03/22/hexo-github/</loc>
+    
+    <lastmod>2022-10-10T06:25:30.281Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ohtudou.com/2020/03/31/docker-install/</loc>
     
     <lastmod>2022-10-10T06:25:30.281Z</lastmod>
     
