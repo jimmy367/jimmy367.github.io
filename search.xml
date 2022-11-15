@@ -339,11 +339,11 @@
       
         <tags>
             
-            <tag> docker </tag>
-            
             <tag> centos </tag>
             
             <tag> linux </tag>
+            
+            <tag> docker </tag>
             
         </tags>
       
