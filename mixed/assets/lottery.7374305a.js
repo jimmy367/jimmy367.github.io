@@ -1,1 +1,0 @@
-import{G as s}from"./index.35e427b2.js";import{a}from"./index.c75e35b3.js";const c=s("lottery",{state:()=>({data:null}),actions:{setData(t){this.data=t},async getDatas(){try{const t=await a.getData();return this.setData(t.data),t}catch(t){throw t}},async postDatas(t){try{return await a.postData(t)}catch(r){throw r}}}});export{c as u};
