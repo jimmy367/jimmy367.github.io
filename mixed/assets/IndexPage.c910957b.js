@@ -1,0 +1,1 @@
+import{_ as a,n,p as t,q as s,aO as o,s as c}from"./index.13381753.js";const _={},r=c("div",{class:"q-pa-md"},"manual",-1);function d(l,p){const e=o("base-content");return n(),t(e,null,{default:s(()=>[r]),_:1})}var m=a(_,[["render",d]]);export{m as default};
