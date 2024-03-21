@@ -1,0 +1,1 @@
+const e={login:{url:"/api/login",checkUrl:"/api/check_login",table:{msg:"\u5E74\u4F1A\u62BD\u5956\u7CFB\u7EDF",form:{username:"mta2022",show:!0}}},onload:{url:"/api/list_member",limit:20},lottery:{url:"/api/add",db:{name:"mta2022",ver:1,store:{user:"user",award:"type"}},download:{show:!0,delay:800},intervalTime:50,keyBand:{start:"Enter",stop:"Space"}}};export{e as c};
